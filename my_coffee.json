@@ -1,0 +1,20 @@
+[
+    {
+        "name":"cafeA",
+        "address":"AddressA",
+        "wifi":4,
+        "seats":10
+    },
+    {
+        "name":"cafeB",
+        "address":"AddressB",
+        "wifi":5,
+        "seats":34
+    },
+    {
+        "name":"cafeC",
+        "address":"AddressC",
+        "wifi":6,
+        "seats":30
+    }
+]
